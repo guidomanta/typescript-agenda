@@ -28,4 +28,4 @@ The application includes some use case tests.
 
 Guido Manta - [@guido_manta](https://twitter.com/guido_manta) - guido.manta@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/guidomanta/typescript-agenda](https://github.com/guidomanta/typescript-agenda)
